@@ -91,7 +91,7 @@
 <!-- TemplateBeginEditable name="gallery" -->
 <div id="apDiv1">
   <div align="center">
-    <p>Gallery</p>
+    <p>Services</p>
   </div>
 </div>
 <!-- TemplateEndEditable --><!-- TemplateBeginRepeat name="RepeatRegion1" -->
@@ -108,11 +108,11 @@
 </div>
 <!-- TemplateEndEditable --><!-- TemplateBeginEditable name="other info" -->
 <div id="apDiv7">
-  <div align="center">Other Information</div>
+  <div align="center">Gallery</div>
 </div>
 <!-- TemplateEndEditable --><!-- TemplateBeginEditable name="about us" -->
 <div id="apDiv8">
-  <div align="center">About us</div>
+  <div align="center">Heritage</div>
 </div>
 <!-- TemplateEndEditable -->
 </body>
