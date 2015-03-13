@@ -1,11 +1,12 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml"><!-- InstanceBegin template="/Templates/buttontemplate.dwt" codeOutsideHTMLIsLocked="false" -->
+<html xmlns="http://www.w3.org/1999/xhtml">
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
-<!-- InstanceBeginEditable name="doctitle" -->
+<!-- TemplateBeginEditable name="doctitle" -->
 <title>Untitled Document</title>
-<!-- InstanceEndEditable -->
-<!-- InstanceBeginEditable name="head" -->homepages<!-- InstanceEndEditable -->
+<!-- TemplateEndEditable -->
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable -->
 <style type="text/css">
 #apDiv1 {
 	position:absolute;
@@ -92,40 +93,22 @@ function MM_preloadImages() { //v3.0
       <td><img src="spacer.gif" width="1" height="1" border="0" alt="" /></td>
     </tr>
     <tr>
-      <td><a href="brainstorming.html" onmouseout="MM_nbGroup('out');" onmouseover="MM_nbGroup('over','buttons_r1_c1','../Links/buttons%20_r1_c1_s2.jpg','../Links/buttons%20_r1_c1_s3.jpg',1);" onclick="MM_nbGroup('down','navbar1','buttons_r1_c1','../Links/buttons%20_r1_c1_s3.jpg',1);"><img name="buttons_r1_c1" src="buttons%20_r1_c1.jpg" width="202" height="64" border="0" id="buttons_r1_c1" alt="" /></a></td>
+      <td><a href="../Links/brainstorming.html" onmouseout="MM_nbGroup('out');" onmouseover="MM_nbGroup('over','buttons_r1_c1','../Links/buttons%20_r1_c1_s2.jpg','../Links/buttons%20_r1_c1_s3.jpg',1);" onclick="MM_nbGroup('down','navbar1','buttons_r1_c1','../Links/buttons%20_r1_c1_s3.jpg',1);"><img name="buttons_r1_c1" src="../Links/buttons%20_r1_c1.jpg" width="202" height="64" border="0" id="buttons_r1_c1" alt="" /></a></td>
       <td><img src="spacer.gif" width="1" height="64" border="0" alt="" /></td>
     </tr>
     <tr>
-      <td><a href="makinghomepages.html" onmouseout="MM_nbGroup('out');" onmouseover="MM_nbGroup('over','buttons_r2_c1','../Links/buttons%20_r2_c1_s2.jpg','../Links/buttons%20_r2_c1_s3.jpg',1);" onclick="MM_nbGroup('down','navbar1','buttons_r2_c1','../Links/buttons%20_r2_c1_s3.jpg',1);"><img name="buttons_r2_c1" src="buttons%20_r2_c1.jpg" width="202" height="64" border="0" id="buttons_r2_c1" alt="" /></a></td>
+      <td><a href="../Links/makinghomepages.html" onmouseout="MM_nbGroup('out');" onmouseover="MM_nbGroup('over','buttons_r2_c1','../Links/buttons%20_r2_c1_s2.jpg','../Links/buttons%20_r2_c1_s3.jpg',1);" onclick="MM_nbGroup('down','navbar1','buttons_r2_c1','../Links/buttons%20_r2_c1_s3.jpg',1);"><img name="buttons_r2_c1" src="../Links/buttons%20_r2_c1.jpg" width="202" height="64" border="0" id="buttons_r2_c1" alt="" /></a></td>
       <td><img src="spacer.gif" width="1" height="64" border="0" alt="" /></td>
     </tr>
     <tr>
-      <td><a href="Makingsubpage.html" onmouseout="MM_nbGroup('out');" onmouseover="MM_nbGroup('over','buttons_r3_c1','../Links/buttons%20_r3_c1_s2.jpg','../Links/buttons%20_r3_c1_s3.jpg',1);" onclick="MM_nbGroup('down','navbar1','buttons_r3_c1','../Links/buttons%20_r3_c1_s3.jpg',1);"><img name="buttons_r3_c1" src="buttons%20_r3_c1.jpg" width="202" height="64" border="0" id="buttons_r3_c1" alt="" /></a></td>
+      <td><a href="../Links/Makingsubpage.html" onmouseout="MM_nbGroup('out');" onmouseover="MM_nbGroup('over','buttons_r3_c1','../Links/buttons%20_r3_c1_s2.jpg','../Links/buttons%20_r3_c1_s3.jpg',1);" onclick="MM_nbGroup('down','navbar1','buttons_r3_c1','../Links/buttons%20_r3_c1_s3.jpg',1);"><img name="buttons_r3_c1" src="../Links/buttons%20_r3_c1.jpg" width="202" height="64" border="0" id="buttons_r3_c1" alt="" /></a></td>
       <td><img src="spacer.gif" width="1" height="64" border="0" alt="" /></td>
     </tr>
   </table>
 </div>
 <div id="Contentdiv">
-<!-- InstanceBeginEditable name="Content" -->
-  <p>After our planning out the flowchart, we started making our wireframe for the website.</p>
-    <h1>Wireframe Ideas</h1>
-    <img src="../Wireframe2.png"width="400"height="height""300"/>
-    <p>pros and cons of this idea: clearly displays all links. Easy to access subpages, large image display. </p>
-    <p><img src="../Wireframe1.jpg"width="400"height="height""500"/></p>
-    <p>Pros and cons: -simple design, easy to access </p>
-    <p><img src="../Wireframe3.png"width="400"height="height""800"/>    </p>
-<li>
-  <p>a wireframe was selected to be developed into prelimary storyboards</p>
-  <h3>Storyboard</h3>
-  <img src="../Storyboard.png"/>
-  <p>below are the links to the homepage created on
-  </p><ul>
-    <li> <a href="../Index-FW.html"> Homepage FW </a> </li>
-    <li> <a href="file:///Users/CTD-01/Desktop/Github/CTD-Planning-Site-JYiu/Storyboard.png"> Homepage link FW </a> </li>
-    <li> <a href="../htdocs/Index-DW.html"> Homepage DW </a> </li>
-    <li> <a href="file:///Users/CTD-01/Desktop/Github/CTD-Planning-Site-JYiu/Index-DW.html"> Homepage link DW </a> </li>
-  </ul>
-  </li><!-- InstanceEndEditable -->
+<!-- TemplateBeginEditable name="Content" -->
+<!-- TemplateEndEditable -->
 </div>
 </body>
-<!-- InstanceEnd --></html>
+</html>
