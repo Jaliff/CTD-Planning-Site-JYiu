@@ -101,20 +101,20 @@ function MM_preloadImages() { //v3.0
   <table style="display: inline-table;" border="0" cellpadding="0" cellspacing="0" width="202">
     <!-- fwtable fwsrc="buttons .png" fwpage="Page 1" fwbase="buttons .jpg" fwstyle="Dreamweaver" fwdocid = "394246561" fwnested="0" -->
     <tr>
-      <td><img src="../JaliffYiuPlanningSite/images/spacer.gif" width="202" height="1" border="0" alt="" /></td>
-      <td><img src="../JaliffYiuPlanningSite/images/spacer.gif" width="1" height="1" border="0" alt="" /></td>
+      <td><img src="images/spacer.gif" width="202" height="1" border="0" alt="" /></td>
+      <td><img src="images/spacer.gif" width="1" height="1" border="0" alt="" /></td>
     </tr>
     <tr>
-      <td><a href="../JaliffYiuPlanningSite/index.html" onmouseout="MM_nbGroup('out');" onmouseover="MM_nbGroup('over','buttons_r1_c1','images/buttons%20_r1_c1_s2.jpg','images/buttons%20_r1_c1_s3.jpg',1);" onclick="MM_nbGroup('down','navbar1','buttons_r1_c1','images/buttons%20_r1_c1_s3.jpg',1);"><img name="buttons_r1_c1" src="../JaliffYiuPlanningSite/images/buttons _r1_c1.jpg" width="202" height="64" border="0" id="buttons_r1_c1" alt="" /></a></td>
-      <td><img src="../JaliffYiuPlanningSite/images/spacer.gif" width="1" height="64" border="0" alt="" /></td>
+      <td><a href="javascript:;" onmouseout="MM_nbGroup('out');" onmouseover="MM_nbGroup('over','buttons_r1_c1','images/buttons%20_r1_c1_s2.jpg','images/buttons%20_r1_c1_s3.jpg',1);" onclick="MM_nbGroup('down','navbar1','buttons_r1_c1','images/buttons%20_r1_c1_s3.jpg',1);"><img name="buttons_r1_c1" src="images/buttons%20_r1_c1.jpg" width="202" height="64" border="0" id="buttons_r1_c1" alt="" /></a></td>
+      <td><img src="images/spacer.gif" width="1" height="64" border="0" alt="" /></td>
     </tr>
     <tr>
-      <td><a href="../JaliffYiuPlanningSite/makinghomepages.html" onmouseout="MM_nbGroup('out');" onmouseover="MM_nbGroup('over','buttons_r2_c1','images/buttons%20_r2_c1_s2.jpg','images/buttons%20_r2_c1_s3.jpg',1);" onclick="MM_nbGroup('down','navbar1','buttons_r2_c1','images/buttons%20_r2_c1_s3.jpg',1);"><img name="buttons_r2_c1" src="../JaliffYiuPlanningSite/images/buttons _r2_c1.jpg" width="202" height="64" border="0" id="buttons_r2_c1" alt="" /></a></td>
-      <td><img src="../JaliffYiuPlanningSite/images/spacer.gif" width="1" height="64" border="0" alt="" /></td>
+      <td><a href="javascript:;" onmouseout="MM_nbGroup('out');" onmouseover="MM_nbGroup('over','buttons_r2_c1','images/buttons%20_r2_c1_s2.jpg','images/buttons%20_r2_c1_s3.jpg',1);" onclick="MM_nbGroup('down','navbar1','buttons_r2_c1','images/buttons%20_r2_c1_s3.jpg',1);"><img name="buttons_r2_c1" src="images/buttons%20_r2_c1.jpg" width="202" height="64" border="0" id="buttons_r2_c1" alt="" /></a></td>
+      <td><img src="images/spacer.gif" width="1" height="64" border="0" alt="" /></td>
     </tr>
     <tr>
-      <td><a href="../JaliffYiuPlanningSite/Makingsubpage.html" onmouseout="MM_nbGroup('out');" onmouseover="MM_nbGroup('over','buttons_r3_c1','images/buttons%20_r3_c1_s2.jpg','images/buttons%20_r3_c1_s3.jpg',1);" onclick="MM_nbGroup('down','navbar1','buttons_r3_c1','images/buttons%20_r3_c1_s3.jpg',1);"><img name="buttons_r3_c1" src="../JaliffYiuPlanningSite/images/buttons _r3_c1.jpg" width="202" height="64" border="0" id="buttons_r3_c1" alt="" /></a></td>
-      <td><img src="../JaliffYiuPlanningSite/images/spacer.gif" width="1" height="64" border="0" alt="" /></td>
+      <td><a href="javascript:;" onmouseout="MM_nbGroup('out');" onmouseover="MM_nbGroup('over','buttons_r3_c1','images/buttons%20_r3_c1_s2.jpg','images/buttons%20_r3_c1_s3.jpg',1);" onclick="MM_nbGroup('down','navbar1','buttons_r3_c1','images/buttons%20_r3_c1_s3.jpg',1);"><img name="buttons_r3_c1" src="images/buttons%20_r3_c1.jpg" width="202" height="64" border="0" id="buttons_r3_c1" alt="" /></a></td>
+      <td><img src="images/spacer.gif" width="1" height="64" border="0" alt="" /></td>
     </tr>
   </table>
 </div>
